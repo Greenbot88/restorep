@@ -1,0 +1,6 @@
+{
+  "name": "Resto Rep",
+  "description": "Multi-unit Restaurant Sales, Production, and Wastage Analytics Dashboard with live reporting, trends, and item-wise reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
